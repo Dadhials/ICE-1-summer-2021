@@ -57,6 +57,12 @@ public class CardTrick {
                 System.out.println("Sorry, your card didn't match!");
             }
         }
+        // Supreet Dadhiala
+        //Student id : 991583230
+        Card luckyCard = new Card;
+        luckyCard.setValue(1);
+        luckyCard.setSuit("Hearts");
+        
         //Then report the result here
         
        
